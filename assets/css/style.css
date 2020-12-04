@@ -144,7 +144,7 @@ p {
     color: #ffffff;
 }
 
-/* simplified the css below by ussing the accesibility tags, which makes it even more compressed and clean than the one above */
+/* simplified the css below by ussing the semantic elements used on the html code, which makes it even more compressed and clean than the one above */
 article img {
     max-height: 200px;
 }
