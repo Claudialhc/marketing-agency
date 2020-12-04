@@ -1,6 +1,6 @@
 # marketing-agency
 
-![screen shot](assets/images/website-screenshot.PNG)
+![screen shot](assets/images/website-screenshot.png)
 
 ## Description 
 
